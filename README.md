@@ -27,5 +27,7 @@
  
  如果你不同意，请不要使用本程序
  
+ 程序使用了360加固 保证了您使用程序的安全 很难破解
+ 
 [点击下载](https://github.com/YoungToday/youngtoday.github.io)
  
