@@ -27,5 +27,5 @@
  
  如果你不同意，请不要使用本程序
  
-[点击下载](傻逼 为啥给你使啊)
+[点击下载](https://github.com/YoungToday/youngtoday.github.io)
  
